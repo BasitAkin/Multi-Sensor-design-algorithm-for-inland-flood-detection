@@ -41,11 +41,23 @@ The analysis pipeline consists of three sequential stages:
 
 ---
 
+## Data Download
+
+The input data files required to run the scripts are hosted on Google Drive due to file size limitations on GitHub. Download the contents and place them in the `data/` directory before running the scripts.
+
+**[Download the data folder from Google Drive](https://drive.google.com/drive/folders/1vhDDwFzDJLjArZ8lZ5QxicHCu5aAzI46?usp=sharing)**
+
+After downloading, your `data/` folder should contain:
+
+- `master_dataset.csv` - Candidate sensor locations with attributes
+- `studyarea_huc10s.shp` (and associated .dbf, .shx, .prj files) - HUC10 watershed boundaries
+- `USGSgages_in_ROI_5states.csv` - USGS gage locations within the study area
+
+---
+
 ## Data Sources
 
-### Required Input Data
-
-All input data should be placed in the `data/` directory before running the scripts.
+### Description of Input Data
 
 #### 1. Master Dataset (`master_dataset.csv`)
 
@@ -88,8 +100,8 @@ The NWM validation script accesses NWM v3.0 retrospective streamflow data direct
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Multi-SensorPaper.git
-cd Multi-SensorPaper
+git clone https://github.com/BasitAkin/Multi-Sensor-design-algorithm-for-inland-flood-detection.git
+cd Multi-Sensor-design-algorithm-for-inland-flood-detection
 
 # Create a virtual environment (recommended)
 python -m venv venv
