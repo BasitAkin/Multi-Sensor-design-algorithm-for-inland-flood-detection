@@ -178,7 +178,7 @@ Where TP_rate is the true positive (flood detection) rate, FP_rate is the false 
 If you use this code in your research, please cite:
 
 ```
-Akinade, B. A. (2025). Where to Watch the Water: Multi-Sensor Network Design
+Akinade, B. A., Amanambu, A.C. (2025). Where to Watch the Water: Multi-Sensor Network Design
 Optimization for Inland Flood Detection. Water Intelligence and Geospatial
 Sensing (WINGS) Lab.
 ```
