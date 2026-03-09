@@ -43,7 +43,7 @@ The analysis pipeline consists of three sequential stages:
 
 ## Data Download
 
-The input data files required to run the scripts are hosted on Google Drive due to file size limitations on GitHub. Download the contents and place them in the `data/` directory before running the scripts.
+The input data files required to run the scripts are hosted on Google Drive due to file size limitations on GitHub. Download the contents before running the scripts.
 
 **[Download the data folder from Google Drive](https://drive.google.com/drive/folders/1vhDDwFzDJLjArZ8lZ5QxicHCu5aAzI46?usp=sharing)**
 
