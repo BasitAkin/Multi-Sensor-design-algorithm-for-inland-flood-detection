@@ -1,7 +1,7 @@
 # Where to Watch the Water: Multi-Sensor Network Design Optimization for Inland Flood Detection
 
 **Author:** Basit A. Akinade
-**Affiliation:** Water Intelligence and Geospatial Sensing (WINGS) Lab
+**Affiliation:** Water INtelligence and Geospatial Sensing (WINGS) Lab
 **Date:** January 2025
 
 ---
@@ -178,7 +178,7 @@ Where TP_rate is the true positive (flood detection) rate, FP_rate is the false 
 If you use this code in your research, please cite:
 
 ```
-Akinade, B. A., Amanambu, A.C. (2025). Where to Watch the Water: Multi-Sensor Network Design
+Akinade, B. A., Amanambu, A.C. (2026). Where to Watch the Water: Multi-Sensor Network Design
 Optimization for Inland Flood Detection. Water Intelligence and Geospatial
 Sensing (WINGS) Lab.
 ```
