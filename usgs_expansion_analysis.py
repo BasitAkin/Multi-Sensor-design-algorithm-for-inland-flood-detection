@@ -28,7 +28,7 @@ Framework: "Flood Warning Cascade Architecture"
 - Sensor Classification: Sentinel / Cascade Sentinel / Gap-Filler / Validator
 
 Author: WINGS Lab
-Date: January 2025
+Date: January 2026
 Version: 3.1-HYBRID (Multi-Indicator Method)
 """
 
