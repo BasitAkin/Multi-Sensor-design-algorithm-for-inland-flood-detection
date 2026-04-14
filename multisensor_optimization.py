@@ -29,7 +29,7 @@ TABLES GENERATED:
   - Table 10: Summary Statistics Across All Scenarios
 
 Author: WINGS Lab
-Date: January 2025
+Date: January 2026
 """
 
 import os
