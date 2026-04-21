@@ -1,9 +1,6 @@
 """
-NWM VALIDATION v2.2-S FULL - MULTI-SCENARIO COMPREHENSIVE ANALYSIS
+NWM VALIDATION - MULTI-SCENARIO COMPREHENSIVE ANALYSIS
 ===================================================================
-
-COMPLETE replication of v2.1 functionality expanded for ALL scenarios:
-
 METRICS EXTRACTED:
   - AMA (Annual Mean Average)
   - Q95 (95th percentile flow)
