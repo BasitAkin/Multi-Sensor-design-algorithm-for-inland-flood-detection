@@ -1,8 +1,7 @@
 """
-BASIN-BY-BASIN Multi-Sensor Placement for Flood Detection (v4.4-S)
+BASIN-BY-BASIN Multi-Sensor Placement for Flood Detection
 
-BASE: v4.4 Algorithm (unchanged)
-ADDED: Four Operational Scenarios comparison with FULL outputs for ALL scenarios
+Four Operational Scenarios comparison with FULL outputs for ALL scenarios
   - A: Maximum Coverage (lambda=0.10, tau=0.02)
   - B: Balanced (lambda=0.15, tau=0.05) - baseline
   - C: Precision-Focused (lambda=0.25, tau=0.05)
