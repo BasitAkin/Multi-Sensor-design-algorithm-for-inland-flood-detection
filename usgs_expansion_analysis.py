@@ -1,10 +1,8 @@
 """
-USGS INTEGRATION ANALYSIS MODULE (v3.1-HYBRID)
+USGS INTEGRATION ANALYSIS MODULE
 ===============================================
 Post-algorithm INTERPRETIVE LAYER that analyzes the relationship between
 the proposed flood sensor network and existing USGS infrastructure.
-
-*** HYBRID APPROACH - Using Valid NHDPlus Variables ***
 
 The topology columns (Hydroseq, Levelpathi, dnhydroseq) contain placeholder
 values in this dataset. Instead, we use a MULTI-INDICATOR approach with
@@ -29,7 +27,6 @@ Framework: "Flood Warning Cascade Architecture"
 
 Author: WINGS Lab
 Date: January 2026
-Version: 3.1-HYBRID (Multi-Indicator Method)
 """
 
 import os
