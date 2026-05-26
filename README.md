@@ -175,22 +175,36 @@ Where TP_rate is the true positive (flood detection) rate, FP_rate is the false 
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this code in your research, please cite both the software (this repository) and the accompanying paper.
+
+### Software (this repository)
 
 ```
-Akinade, B. A., Amanambu, A.C., Davis, Lisa, M.A. (2026). Where to Watch the Water: Multi-Sensor Network Design
-Optimization for Inland Flood Detection. Water Intelligence and Geospatial
-Sensing (WINGS) Lab.
+Akinade, B. A., Amanambu, A. C., & Davis, M. A. L. (2026). Where to Watch the Water:
+Multi-Sensor Network Design Optimization for Inland Flood Detection [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 ```
+
+> Replace `XXXXXXX` with the DOI assigned by Zenodo when the GitHub release is archived. A `CITATION.cff` file in this repository enables GitHub's "Cite this repository" button and provides the same information in a machine-readable form.
+
+### Paper
+
+```
+Akinade, B. A., Amanambu, A. C., & Davis, M. A. L. (2026). Where to Watch the Water:
+Multi-Sensor Network Design Optimization for Inland Flood Detection.
+Water Resources Research. https://doi.org/XX.XXXX/XXXXXXX
+```
+
+> Replace the paper DOI once the manuscript is accepted by *Water Resources Research*.
 
 ---
 
 ## Contact
 
-For questions or collaboration inquiries, please contact the WINGS Lab.
+For questions or collaboration inquiries, please contact the WINGS Lab at the Department of Geography and the Environment, The University of Alabama.
 
 ---
 
 ## License
 
-This project is provided for academic and research purposes.
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for the full text. You are free to use, modify, and redistribute the code, including for commercial purposes, provided the copyright notice and license text are included.
