@@ -1,0 +1,67 @@
+# This CITATION.cff file enables GitHub's "Cite this repository" button and
+# provides machine-readable citation metadata for tools such as Zotero and Zenodo.
+# Spec: https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. If you cite the paper, also cite the accompanying manuscript listed under 'preferred-citation'."
+title: "Where to Watch the Water: Multi-Sensor Network Design Optimization for Inland Flood Detection"
+abstract: >-
+  Reproducible Python codebase for a basin-by-basin, multi-sensor flood
+  detection network design framework. Implements greedy submodular
+  optimization for sensor placement across HUC10 watersheds, USGS gage
+  integration analysis (Sentinel / Cascade Sentinel / Gap-Filler /
+  Validator classification), and validation against NOAA National Water
+  Model Retrospective v3.0 streamflow records.
+type: software
+authors:
+  - family-names: Akinade
+    given-names: Basit A.
+    affiliation: "Water INtelligence and Geospatial Sensing (WINGS) Laboratory, Department of Geography and the Environment, The University of Alabama, Tuscaloosa, AL, USA"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # add when you have one
+  - family-names: Amanambu
+    given-names: Amobichukwu C.
+    affiliation: "Department of Geography and the Environment, The University of Alabama, Tuscaloosa, AL, USA"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: Davis
+    given-names: M. A. Lisa
+    affiliation: "Department of Geography and the Environment, The University of Alabama, Tuscaloosa, AL, USA"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+license: MIT
+version: v1.0.0
+date-released: "2026-05-25"
+repository-code: "https://github.com/BasitAkin/Multi-Sensor-design-algorithm-for-inland-flood-detection"
+url: "https://github.com/BasitAkin/Multi-Sensor-design-algorithm-for-inland-flood-detection"
+doi: "10.5281/zenodo.20389783"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20389783"
+    description: "Software (this repository) archived on Zenodo"
+  - type: doi
+    value: "10.5281/zenodo.20389808"
+    description: "Input dataset archived on Zenodo (companion deposit)"
+keywords:
+  - flood detection
+  - early warning
+  - sensor network design
+  - greedy submodular optimization
+  - HUC10 watersheds
+  - National Water Model
+  - USGS streamgages
+  - hydrometric network
+  - hydrology
+  - water resources
+
+preferred-citation:
+  type: article
+  title: "Where to Watch the Water: Multi-Sensor Network Design Optimization for Inland Flood Detection"
+  authors:
+    - family-names: Akinade
+      given-names: Basit A.
+    - family-names: Amanambu
+      given-names: Amobichukwu C.
+    - family-names: Davis
+      given-names: M. A. Lisa
+  journal: "Water Resources Research"
+  year: 2026
+  # Add once the paper has a DOI from the journal:
+  # doi: "XX.XXXX/XXXXXXX"
