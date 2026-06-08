@@ -204,9 +204,6 @@ Akinade, B. A., Amanambu, A. C., & Davis, M. A. L. (2026). Where to Watch the Wa
 Multi-Sensor Network Design Optimization for Inland Flood Detection.
 Water Resources Research. https://doi.org/XX.XXXX/XXXXXXX
 ```
-
-> Replace the paper DOI once the manuscript is accepted by *Water Resources Research*.
-
 ---
 
 ## Contact
